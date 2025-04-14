@@ -1,76 +1,34 @@
----?image=assets/bch-bg.png
+---?image=assets/bch-bg-small.png
 
 ### Introducing
-## Better Code Hub
-#### Your Definition of Done for Code Quality
+## Better Code Hub by
+#### Your Definition of Done for Code Quality.
 
 ---
 
-## The Challenge of InnerSourcing
+## The Challenge of Modern Software Development
 
-![Getting started with InnerSource](assets/getting-started-with-innersource-cover.png)
+Is to enable *code reuse*, *cross-team collaboration* and *faster development*.
 
-To enable *code reuse*, *cross-team collaboration* and *faster development*,
-code must be <span class="primary">maintainable</span>.
+The solution is <span class="primary">maintainable code</span>.
 
 +++
 
 ![Legacy code](assets/legacy-code.png)
 
-Nobody wants to adopt legacy code
+Because nobody wants to adopt legacy code
 
 +++
 
-#### Code Quality tools prevent legacy code, but...
+#### Other Code Quality tools give
 
-<canvas class="stretch" data-chart="horizontalBar">
-dataset, 46, 36, 35, 28, 27, 14
-<!-- 
-{ 
- "data" : {
-  "labels" : ["Too many false positives", "Too many warnings", "High price", 
-    "Difficult to configure", "No actionable recommendations", 
-    "Lack a broadly accepted quality standard"], 
-  "datasets" : [{ 
-    "data": [46, 36, 35, 28, 27, 14],
-    "backgroundColor": "springgreen",
-    "borderColor": "springgreen" 
-  }]
-  },
-  "options": {
-    "title": {
-      "display": true,
-      "text": "What are the biggest pitfalls of code quality tools?",
-      "fontColor": "springgreen",
-      "fontSize": 20
-    },
-    "legend": {
-      "display": false
-    },
-    "scales": {
-      "xAxes": [{
-        "ticks": {
-            "beginAtZero": true,
-            "max": 80,
-            "stepSize": 10,
-            "fontColor": "springgreen"
-        },
-        "scaleLabel": {
-          "display": true,
-          "labelString": "Percentage of respondents (T=899)",
-          "fontColor": "springgreen"
-        }
-      }],
-      "yAxes": [{
-        "ticks": {
-            "fontColor": "springgreen"
-        }
-      }]
-    }
-  }
-}
--->
-<ccanvas>
+- Too many false positives
+- Too many warnings
+- Are difficult to configure
+- Do not give actionable recommendations
+- Lack a broadly accepted quality standard based on ISO 25010
+- Are not benchmarked so teams decide on individual thresholds
+
 
 +++ 
 
